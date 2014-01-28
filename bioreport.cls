@@ -23,7 +23,7 @@
 % ---------------
 \LoadClass{article}
 
-\RequirePackage{array,bm,ulem,wrapfig,makecell}
+\RequirePackage{array,bm,ulem,wrapfig,makecell,xcolor}
 \RequirePackage{amsmath,amssymb,mathabx,eulervm,mathpazo,bbm}
 \RequirePackage{graphicx,subfigure,hyperref,enumerate,textcomp}
 
@@ -84,12 +84,12 @@
 		{\small Hao Zhu, \href{mailto:hxz244@case.edu}{hzhu@case.edu}\\ PhD Student, Computer and Information Science\\ \today}
 	}}
 \end{spacing}
-\vspace{3em}
+\vspace{2em}
 }
 
 \newcommand{\qed}{\hfill \ensuremath{\blacksquare}}
 
-\newcommand{\point}[1]{{\large \bf #1}}
+\newcommand{\point}[1]{\vspace{1.5em}{\color{red} \Large \bf \uppercase{#1}}\vspace{.5em}}
 \newcommand{\subpoint}[1]{{\bf \uline{#1}}}
 
 \newcommand{\mathf}[1]{${\color{blue} #1}$}
