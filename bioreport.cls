@@ -23,7 +23,7 @@
 % ---------------
 \LoadClass{article}
 
-\RequirePackage{array,bm,ulem,wrapfig,makecell,xcolor}
+\RequirePackage{array,bm,ulem,wrapfig,makecell,xcolor,float}
 \RequirePackage{amsmath,amssymb,mathabx,eulervm,mathpazo,bbm}
 \RequirePackage{graphicx,subfigure,hyperref,enumerate,textcomp}
 
