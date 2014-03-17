@@ -85,6 +85,7 @@
 
 \newcommand{\point}[1]{{\large \bf #1}}
 \newcommand{\subpoint}[1]{{\bf \uline{#1}}}
+\newcommand{\problem}[1]{\section*{{\color{blue} #1}}}
 
 \newcommand{\code}[1]{\uline{\texttt{#1}}}
 
