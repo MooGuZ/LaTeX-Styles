@@ -23,7 +23,7 @@
 % ---------------
 \LoadClass[twoside]{article}
 
-\RequirePackage{array,bm,ulem,wrapfig,makecell,float}
+\RequirePackage{array,bm,ulem,wrapfig,makecell,float,caption}
 \RequirePackage{graphicx,subfigure,hyperref,enumerate,textcomp}
 \RequirePackage{amsmath,amssymb,mathabx,eulervm,mathpazo,mathrsfs,bbm}
 
