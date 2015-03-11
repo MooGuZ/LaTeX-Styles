@@ -90,7 +90,8 @@
 \newcommand{\qed}{\hfill \ensuremath{\blacksquare}}
 
 \newcommand{\point}[1]{\vspace{1.5em}{\color{red} \Large \bf \uppercase{#1}}\vspace{.5em}}
-\newcommand{\subpoint}[1]{{\bf \uline{#1}}}
+\newcommand{\subpoint}[1]{{\large \bf \uline{#1}}}
+\newcommand{\question}[1]{\textbf{\textit{#1}}}
 
 \newcommand{\mathf}[1]{${\color{blue} #1}$}
 \newcommand{\mathl}[1]{$${\color{blue} #1}$$}

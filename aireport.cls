@@ -89,6 +89,8 @@
 
 \newcommand{\code}[1]{\uline{\texttt{#1}}}
 
+\def\infinity{\rotatebox{90}{8}}
+
 % TikZ STYLES AND TEMPLATES
 % -------------------------
 \tikzstyle{GMnode}=[circle,draw=blue!50,fill=blue!20,minimum size=23pt]
